@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**:DHAMINI S
+* **Register Number**:212224040064
+* **Date of Submission**:27-02-2026
 
 ---
 
@@ -110,7 +110,7 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 ### Screenshot 1: EC2 Dashboard / Instance List
 
-(Insert Screenshot Here)
+<img width="1918" height="987" alt="image" src="https://github.com/user-attachments/assets/4cc06059-987b-4d27-941c-7295578cc090" />
 
 ---
 
@@ -122,7 +122,8 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 ### Screenshot 3: Instance Monitoring / Status
 
-(Insert Screenshot Here)
+<img width="1912" height="1130" alt="image" src="https://github.com/user-attachments/assets/1b3336d7-3807-40e4-9a93-48d43f95ca19" />
+
 
 ---
 
