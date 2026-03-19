@@ -4,7 +4,7 @@
 
 * **Name**: Dhamini S
 * **Register Number**: 212224040064
-* **Date of Submission**: 19-03-2026
+* **Date of Submission**: 19.03.2026
 
 ---
 
@@ -82,34 +82,33 @@ Test the database server by connecting to it locally or remotely and performing 
 
 ## Workflow (Student Explanation)
 
-
 1. First, a security group named DB Security Group was created to allow the web server to connect to the database using port 3306 (MySQL).
-
 2. A DB Subnet Group was created with subnets from two Availability Zones to allow the database to run in a Multi-AZ environment for high availability.
-
 3. A MySQL RDS instance named lab-db was created with the database name lab, username main, and password lab-password.
-
 4. The database was associated with the DB Security Group and the Lab VPC so that the web server can securely connect to the database.
-
 5. The web application running on the EC2 server was opened using its IP address, and the RDS endpoint, database name, username, and password were entered to interact with the database.
-6. 
+
+
 ---
 
 ## Output Screenshots (Attach 3)
 
 ### Screenshot 1: EC2 Instance for Database Server
 
-<img src="https://img.sanishtech.com/u/0baa95b9c207e4210cbf24a3a4b3a5f7.jpg" alt="c5" loading="lazy" style="max-width:100%;height:auto;">
+<img width="1919" height="1026" alt="Screenshot 2026-03-01 102831" src="https://github.com/user-attachments/assets/1d3d12d2-6e67-45d9-b774-7b1f60405f5f" />
+
 ---
 
 ### Screenshot 2: Database Service Running
 
-<img src="https://img.sanishtech.com/u/5449af136a90ef2fb2d01806932634fd.jpg" alt="c5.3" width="1918" height="988" loading="lazy" style="max-width:100%;height:auto;">
+<img width="1919" height="1046" alt="Screenshot 2026-03-01 104042" src="https://github.com/user-attachments/assets/4e440ff0-99de-4be6-96ea-b41b836ef95e" />
+
 ---
 
 ### Screenshot 3: Sample Database and Table
 
-<img src="https://img.sanishtech.com/u/c91f3496fceb98653cfa55688c6a4d44.jpg" alt="c5.5" width="1918" height="977" loading="lazy" style="max-width:100%;height:auto;">
+<img width="1910" height="1133" alt="Screenshot 2026-03-01 105153" src="https://github.com/user-attachments/assets/a6917d75-af8c-4dd8-bf5f-45b03f311162" />
+
 ---
 
 ## Result
